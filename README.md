@@ -7,3 +7,8 @@ Please feel free to make a PR for correcting mistakes or better organization.
 
 ## Contents
 ### [Chapter 1 Computer Networks and the Internet](./content/chapter-1/summary.md).
+
+
+---
+## Copyright
+please contact me or make a issue in this repo for any copyright issues.
